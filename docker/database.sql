@@ -1,0 +1,2 @@
+-- create database aulajpa;
+-- use aulajpa;
